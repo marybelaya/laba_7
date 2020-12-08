@@ -15,6 +15,7 @@ public class Main {
         arrayList.add("Two");
         arrayList.add("Three");
         arrayList.add("One");
+        arrayList.add("Four");
 
         Scanner scanner = new Scanner(System.in);
         int choice = 0;
