@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_221" class="java.beans.XMLDecoder">
+ <object class="com.company.ForXml">
+  <void property="string_1">
+   <string>One</string>
+  </void>
+  <void property="string_2">
+   <string>Two</string>
+  </void>
+  <void property="string_3">
+   <string>Three</string>
+  </void>
+  <void property="string_4">
+   <string>One</string>
+  </void>
+  <void property="string_5">
+   <string>hohohoh</string>
+  </void>
+ </object>
+</java>
